@@ -1,4 +1,4 @@
-## @superset-viz-plugins/plugin-chart-status
+## @anadue-plugins/plugin-chart-status
 
 [![Version](https://img.shields.io/npm/v/@superset-ui/plugin-chart-status.svg?style=flat-square)](https://img.shields.io/npm/v/@superset-ui/plugin-chart-status.svg?style=flat-square)
 
