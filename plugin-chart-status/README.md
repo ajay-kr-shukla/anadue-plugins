@@ -9,7 +9,7 @@ This plugin provides Status for Superset.
 Configure `key`, which can be any `string`, and register the plugin. This `key` will be used to lookup this chart throughout the app.
 
 ```js
-import StatusChartPlugin from '@superset-ui/plugin-chart-status';
+import StatusChartPlugin from '@anadue-plugins/plugin-chart-status';
 
 new StatusChartPlugin()
   .configure({ key: 'nielsen-oss-status' })
